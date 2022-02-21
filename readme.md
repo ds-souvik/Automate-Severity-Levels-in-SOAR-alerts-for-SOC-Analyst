@@ -12,3 +12,7 @@
 ### <u>Dataset</u>:
 - Open source data: https://www.circl.lu/doc/misp/feed-osint/ This data is used by testers on SOAR platform to simulate life cycle of an alert. Complete information about the data and it's field is provided on https://www.circl.lu/doc/misp/
 - This data forms backend of the framework when alerts are generated.
+
+### Contents:
+- [Web Scraping](https://github.com/ds-souvik/Automate-Severity-Levels-in-SOAR-alerts-for-SOC-Analyst/blob/master/Download%20jsons.ipynb)
+- [Data Pre-processing](https://github.com/ds-souvik/Automate-Severity-Levels-in-SOAR-alerts-for-SOC-Analyst/blob/master/Data%20Mining%20and%20Pre-processing..ipynb)
