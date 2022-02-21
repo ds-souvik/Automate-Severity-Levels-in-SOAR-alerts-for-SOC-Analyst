@@ -26,7 +26,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" width="88" height="100">](https://en.wikipedia.org/wiki/Project_Jupyter) &nbsp; &nbsp; 
 
-## Machine learning Engineer and Developer
+## Lead Machine learning Engineer, Persistent Systems
 [<img target="_blank" src="https://github.com/ds-souvik/Prediction-of-Bike-Rental-Count-Linear-Regression-and-Deployment-along-with-deployment/blob/master/static/img/me2.jpg" width=140 height=160>](https://www.linkedin.com/in/souvik-ganguly-4a9924105/)|
 -|
 [Souvik Ganguly](https://www.linkedin.com/in/souvik-ganguly-4a9924105/) |)
